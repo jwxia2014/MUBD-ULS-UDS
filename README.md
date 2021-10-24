@@ -1,4 +1,4 @@
-# A Brief Introduction to ULS/UDS
+# A Brief Introduction to ULS/UDS (Unbiased Ligand Set/Unbiased Decoy Set)
 
 1. ULS/UDS is the first series of maximal unbiased benchmarking datasets that created by MUBD-DecoyMaker 1.0, a Pipeline Pilot-based computational tool developed by our lab. ULS/UDS has been compared with GLL/GDD and is less biased in evalution of virtual screening approaches. ULS/UDS proves the rational of our algorithm and the robustness of our computational tool. 
 
